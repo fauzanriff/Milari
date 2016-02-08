@@ -16,7 +16,6 @@ public class JadwalKuliah {
     
     /* ---- GETTER ------- */
     
-    
     /* ---- SETTER ------- */
     
 }
